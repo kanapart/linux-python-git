@@ -1,3 +1,3 @@
 # linux-python-git
-For python Programming
+For python Programming.
 This is creasted for python exercises.
